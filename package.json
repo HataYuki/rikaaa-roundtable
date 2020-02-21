@@ -53,5 +53,7 @@
     "webpack": "^4.41.0",
     "webpack-espower-loader": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "serialize-javascript": "^3.0.0"
+  }
 }
